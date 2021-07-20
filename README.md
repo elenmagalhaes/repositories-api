@@ -13,8 +13,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/elenmagalhaes/repositories-backend/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/elenmagalhaes/repositories-backend?style=social">
+  <a href="https://github.com/elenmagalhaes/repositories-api/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/elenmagalhaes/repositories-api?style=social">
   </a>
 </p>
 
